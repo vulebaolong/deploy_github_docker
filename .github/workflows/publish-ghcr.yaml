@@ -1,4 +1,4 @@
-name: abc
+name: Docker Image CI for ghcr
 
 on: 
   push
